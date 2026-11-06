@@ -1,0 +1,5 @@
+Regime,PV Empirical Coverage,Load Empirical Coverage,Det. Battery Violations,Det. Blackout Energy (kWh),Gauss. Battery Violations,Gauss. Blackout Energy (kWh),Conformal Violations,Conformal Blackout Energy (kWh),Proactive Flexible Shed (kWh)
+Ideal (Clean Telemetry),91.7%,91.2%,0,8728.95,0,6792.58,0,5030.2,3793.53
+"Mild Drop (10% drop, 15m lag)",78.9%,87.6%,0,8734.7,0,6803.27,0,5038.62,3811.2
+"Severe Faults (25% drop, 30m lag, 4% noise)",73.9%,89.3%,0,8730.81,0,6810.26,0,5038.81,3821.67
+Stress Blackout (25% drop + 3h Comms Outage),71.7%,87.8%,0,8739.21,0,6808.49,0,5025.64,3862.35

@@ -1,0 +1,12 @@
+# Core scientific & numerical stack
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# Interactive dashboard & visualization
+streamlit>=1.25.0
+
+# Optional extended packages (if internet access is enabled)
+# scikit-learn>=1.3.0
+# plotly>=5.15.0

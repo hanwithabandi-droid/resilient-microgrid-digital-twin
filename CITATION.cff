@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you utilize this benchmark or methodology in your research, please cite it as below."
+authors:
+  - name: "Bandi Hanwitha"
+title: "Risk-Calibrated Digital Shadowing: Adaptive Conformal State Estimation for PV-Battery Microgrids Under Degraded Telemetry"
+version: 1.0.0
+date-released: 2026-11-06
+url: "https://github.com/hanwithabandi-droid/resilient-microgrid-digital-twin"
+keywords:
+  - "digital twin"
+  - "conformal prediction"
+  - "microgrid"
+  - "renewable energy"
+  - "battery energy storage"
+  - "telemetry degradation"
